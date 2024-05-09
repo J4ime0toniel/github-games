@@ -1,4 +1,4 @@
-## Welcome to GitHub Games - Jaime Otoniel no quiere conflictos
+## Welcome to GitHub Games - Jaime Otoniel no quiero conflictos
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
